@@ -1,39 +1,25 @@
 {
-  "projects": [
+  "hikes": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "nameOfHike": "Zugspitze - The top of Germany",
+      "mountainRange": "Wettersteingebirge",
+      "country": "Germany",
+      "time": 10,
+      "distance" : 14,
+"uphill" : 1000,
+"downhill" : 800,
+"decription" : 
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
+      "nameOfHike": "Triglav - The top of Slovenia",
+      "mountainRange": "Julijske Alpe",
+      "country": "Slovenia",
+      "time": 20,
+      "distance" : 2.5,
+"uphill" : 1000,
+"downhill" : 800
+    },
   ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
-    },
-    {
-      "projectId": 2,
-      "title": "New Task",
-      "description": "This is a new task.",
-      "id": 4
-    }
-  ]
 }
