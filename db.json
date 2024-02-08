@@ -9,7 +9,7 @@
       "distance" : 14,
 "uphill" : 1000,
 "downhill" : 800,
-"decription" : 
+"decription" : "xyz"
     },
     {
       "id": 2,
@@ -19,7 +19,8 @@
       "time": 20,
       "distance" : 2.5,
 "uphill" : 1000,
-"downhill" : 800
-    },
-  ],
+"downhill" : 800,
+"decription" : "xyz"
+    }
+  ]
 }
