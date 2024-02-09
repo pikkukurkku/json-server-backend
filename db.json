@@ -5,22 +5,65 @@
       "nameOfHike": "Zugspitze - The top of Germany",
       "mountainRange": "Wettersteingebirge",
       "country": "Germany",
+      "hikeStartPoint": "parking lot",
       "time": 10,
-      "distance" : 14,
-"uphill" : 1000,
-"downhill" : 800,
-"decription" : "xyz"
+      "distance": 14,
+      "elevation": 2962,
+      "uphill": 1000,
+      "downhill": 800,
+      "decription": "xyz"
     },
     {
       "id": 2,
       "nameOfHike": "Triglav - The top of Slovenia",
       "mountainRange": "Julijske Alpe",
       "country": "Slovenia",
-      "time": 20,
-      "distance" : 2.5,
-"uphill" : 1000,
-"downhill" : 800,
-"decription" : "xyz"
+      "hikeStartPoint": "parking lot",
+      "time": 10,
+      "distance": 14,
+      "elevation": 2863,
+      "uphill": 1000,
+      "downhill": 800,
+      "decription": "xyz"
+    },
+    {
+      "id": 3,
+      "nameOfHike": "Rote Wand - the best panoramic view",
+      "mountainRange": "Villgratner Berge-Deferegger Alpen",
+      "country": "Italy",
+      "hikeStartPoint": "parking lot Antholzer Tal",
+      "time": 5,
+      "distance": 14,
+      "elevation": 2818,
+      "uphill": 1000,
+      "downhill": 800,
+      "decription": "xyz"
+    },
+    {
+      "id": 4,
+      "nameOfHike": "Rysy - The top of Poland",
+      "mountainRange": "Tatry",
+      "country": "Poland",
+      "hikeStartPoint": "Mountain Hut Morskie Oko",
+      "time": 5,
+      "distance": 10,
+      "elevation": 2499,
+      "uphill": 1000,
+      "downhill": 800,
+      "decription": "xyz"
+    },
+    {
+      "id": 5,
+      "nameOfHike": "Säntis from Schäfler - your adrenaline kick",
+      "mountainRange": "Appenzeller Alpen",
+      "country": "Switzerland",
+      "hikeStartPoint": "Mountain Hut Schäfler",
+      "time": 3.5,
+      "distance": 5,
+      "elevation": 2501,
+      "uphill": 1000,
+      "downhill": 800,
+      "decription": "xyz"
     }
   ]
 }
