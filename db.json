@@ -11,7 +11,9 @@
       "elevation": 2962,
       "uphill": 1000,
       "downhill": 800,
-      "decription": "xyz"
+      "decription": "xyz",
+      "latitude": 47.4211,
+    	"longitude": 10.9854
     },
     {
       "id": 2,
@@ -24,7 +26,9 @@
       "elevation": 2863,
       "uphill": 1000,
       "downhill": 800,
-      "decription": "xyz"
+      "decription": "xyz",
+      "latitude": 47.4211,
+    	"longitude": 10.9854
     },
     {
       "id": 3,
@@ -37,7 +41,9 @@
       "elevation": 2818,
       "uphill": 1000,
       "downhill": 800,
-      "decription": "xyz"
+      "decription": "xyz",
+      "latitude": 47.4211,
+    	"longitude": 10.9854
     },
     {
       "id": 4,
@@ -50,7 +56,9 @@
       "elevation": 2499,
       "uphill": 1000,
       "downhill": 800,
-      "decription": "xyz"
+      "decription": "xyz",
+      "latitude": 47.4211,
+    	"longitude": 10.9854
     },
     {
       "id": 5,
@@ -63,7 +71,9 @@
       "elevation": 2501,
       "uphill": 1000,
       "downhill": 800,
-      "decription": "xyz"
+      "decription": "xyz",
+      "latitude": 47.4211,
+    	"longitude": 10.9854
     }
   ]
 }
