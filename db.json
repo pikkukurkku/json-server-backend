@@ -11,17 +11,19 @@
       "elevation": 2962,
       "uphill": 1000,
       "downhill": 800,
-      "desscription"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies dolor non feugiat sollicitudin. Proin ullamcorper ultrices porttitor. Etiam quis ante ac urna interdum viverra. Suspendisse at rutrum arcu. Aliquam lobortis aliquet ligula, quis efficitur quam pellentesque eu. Nullam nisi urna, venenatis quis volutpat sit amet, cursus in justo. Integer consectetur purus ac finibus consectetur. <br> Nam et scelerisque quam, in tincidunt ante. Praesent tempor sagittis diam, sed commodo leo tincidunt id. Suspendisse ac urna justo. Integer eleifend nulla ut erat vestibulum, ac dapibus dolor hendrerit. Mauris tempus rhoncus magna vel maximus. Duis scelerisque tristique ex ac gravida. Suspendisse accumsan velit vel scelerisque vehicula. Phasellus accumsan euismod tincidunt. Praesent elit enim, accumsan et magna ut, vestibulum pulvinar quam. Donec vestibulum gravida massa sit amet scelerisque. Duis ac magna augue. Quisque non nunc molestie, sagittis orci vel, dictum libero. Nullam eros enim, tristique cursus sem a, feugiat fermentum justo. Praesent luctus tempor nulla, ac ultrices erat. Vivamus et risus porttitor, rhoncus nunc eget, elementum enim. Nam suscipit massa nec ipsum sollicitudin volutpat.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies dolor non feugiat sollicitudin. Proin ullamcorper ultrices porttitor. Etiam quis ante ac urna interdum viverra. Suspendisse at rutrum arcu. Aliquam lobortis aliquet ligula, quis efficitur quam pellentesque eu. Nullam nisi urna, venenatis quis volutpat sit amet, cursus in justo. Integer consectetur purus ac finibus consectetur. <br> Nam et scelerisque quam, in tincidunt ante. Praesent tempor sagittis diam, sed commodo leo tincidunt id. Suspendisse ac urna justo. Integer eleifend nulla ut erat vestibulum, ac dapibus dolor hendrerit. Mauris tempus rhoncus magna vel maximus. Duis scelerisque tristique ex ac gravida. Suspendisse accumsan velit vel scelerisque vehicula. Phasellus accumsan euismod tincidunt. Praesent elit enim, accumsan et magna ut, vestibulum pulvinar quam. Donec vestibulum gravida massa sit amet scelerisque. Duis ac magna augue. Quisque non nunc molestie, sagittis orci vel, dictum libero. Nullam eros enim, tristique cursus sem a, feugiat fermentum justo. Praesent luctus tempor nulla, ac ultrices erat. Vivamus et risus porttitor, rhoncus nunc eget, elementum enim. Nam suscipit massa nec ipsum sollicitudin volutpat.",
       "latitude": 47.4211,
     	"longitude": 10.9854,
       "reviews": [
         {
+          "id": 1,
           "reviewer": "Natalia",
           "reviewText":"This hike is long and difficult, best to plan for a stay in a mountin hut along the way",
           "stars": 5,
           "postedOn": "11.02.2024"
         },
         {  
+          "id": 2,
            "reviewer": "uros",
         "reviewText":"If you're lucky, you get to spot some marmots",
         "stars": 5,
@@ -39,17 +41,19 @@
       "elevation": 2863,
       "uphill": 1000,
       "downhill": 800,
-      "desscription"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies dolor non feugiat sollicitudin. Proin ullamcorper ultrices porttitor. Etiam quis ante ac urna interdum viverra. Suspendisse at rutrum arcu. Aliquam lobortis aliquet ligula, quis efficitur quam pellentesque eu. Nullam nisi urna, venenatis quis volutpat sit amet, cursus in justo. Integer consectetur purus ac finibus consectetur. Nam et scelerisque quam, in tincidunt ante. Praesent tempor sagittis diam, sed commodo leo tincidunt id. Suspendisse ac urna justo. Integer eleifend nulla ut erat vestibulum, ac dapibus dolor hendrerit. Mauris tempus rhoncus magna vel maximus. Duis scelerisque tristique ex ac gravida. Suspendisse accumsan velit vel scelerisque vehicula. Phasellus accumsan euismod tincidunt. Praesent elit enim, accumsan et magna ut, vestibulum pulvinar quam. Donec vestibulum gravida massa sit amet scelerisque. Duis ac magna augue. Quisque non nunc molestie, sagittis orci vel, dictum libero. Nullam eros enim, tristique cursus sem a, feugiat fermentum justo. Praesent luctus tempor nulla, ac ultrices erat. Vivamus et risus porttitor, rhoncus nunc eget, elementum enim. Nam suscipit massa nec ipsum sollicitudin volutpat.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies dolor non feugiat sollicitudin. Proin ullamcorper ultrices porttitor. Etiam quis ante ac urna interdum viverra. Suspendisse at rutrum arcu. Aliquam lobortis aliquet ligula, quis efficitur quam pellentesque eu. Nullam nisi urna, venenatis quis volutpat sit amet, cursus in justo. Integer consectetur purus ac finibus consectetur. Nam et scelerisque quam, in tincidunt ante. Praesent tempor sagittis diam, sed commodo leo tincidunt id. Suspendisse ac urna justo. Integer eleifend nulla ut erat vestibulum, ac dapibus dolor hendrerit. Mauris tempus rhoncus magna vel maximus. Duis scelerisque tristique ex ac gravida. Suspendisse accumsan velit vel scelerisque vehicula. Phasellus accumsan euismod tincidunt. Praesent elit enim, accumsan et magna ut, vestibulum pulvinar quam. Donec vestibulum gravida massa sit amet scelerisque. Duis ac magna augue. Quisque non nunc molestie, sagittis orci vel, dictum libero. Nullam eros enim, tristique cursus sem a, feugiat fermentum justo. Praesent luctus tempor nulla, ac ultrices erat. Vivamus et risus porttitor, rhoncus nunc eget, elementum enim. Nam suscipit massa nec ipsum sollicitudin volutpat.",
       "latitude": 46.3783,
     	"longitude": 13.8369,
       "reviews": [
         {
+          "id": 1,
           "reviewer": "Natalia",
           "reviewText":"This hike is long and difficult, best to plan for a stay in a mountin hut along the way",
           "stars": 5,
           "postedOn": "11.02.2024"
         },
         {  
+          "id": 2,
            "reviewer": "uros",
         "reviewText":"If you're lucky, you get to spot some marmots",
         "stars": 5,
@@ -72,12 +76,14 @@
     	"longitude": 12.1047,
       "reviews": [
         {
+          "id": 1,
           "reviewer": "Natalia",
           "reviewText":"This hike is long and difficult, best to plan for a stay in a mountin hut along the way",
           "stars": 5,
           "postedOn": "11.02.2024"
         },
         {  
+          "id": 2,
            "reviewer": "uros",
         "reviewText":"If you're lucky, you get to spot some marmots",
         "stars": 5,
@@ -100,12 +106,14 @@
     	"longitude": 10.9854,
       "reviews": [
         {
+          "id": 1,
           "reviewer": "Natalia",
           "reviewText":"This hike is long and difficult, best to plan for a stay in a mountin hut along the way",
           "stars": 5,
           "postedOn": "11.02.2024"
         },
         {  
+          "id": 2,
            "reviewer": "uros",
         "reviewText":"If you're lucky, you get to spot some marmots",
         "stars": 5,
@@ -128,12 +136,14 @@
     	"longitude": 10.9854,
       "reviews": [
         {
+          "id": 1,
           "reviewer": "Natalia",
           "reviewText":"This hike is long and difficult, best to plan for a stay in a mountin hut along the way",
           "stars": 5,
           "postedOn": "11.02.2024"
         },
         {  
+          "id": 2,
            "reviewer": "uros",
         "reviewText":"If you're lucky, you get to spot some marmots",
         "stars": 5,
