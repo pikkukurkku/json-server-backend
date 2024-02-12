@@ -2,6 +2,7 @@ require("dotenv").config();
 const jsonServer = require("json-server");
 const morgan = require("morgan");
 const path = require("path");
+const fs = require("fs");
 
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
@@ -18,6 +19,11 @@ server.use((req, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");
   next();
 });
+server.get("/", (req, res) => {
+  const jsonData = JSON.parse(fs.readFileSync("db.json", "utf8"));
+  res.json(jsonData);
+});
+
 server.use(router);
 
 server.listen(PORT, () => {
