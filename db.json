@@ -128,19 +128,19 @@
   "images": [
     {
       "id": 1,
-      "src": "./public/images/zugspitze/zugspitze1.JPG"
+      "src": "https://json-server.adaptable.app/images/zugspitze/zugspitze1.JPG"
     },
     {
       "id": 2,
-      "src": "./public/images/zugspitze/zugspitze2.JPG"
+      "src": "https://json-server.adaptable.app/images/zugspitze/zugspitze2.JPG"
     },
     {
       "id": 3,
-      "src": "./public/images/zugspitze/zugspitze3.JPG"
+      "src": "https://json-server.adaptable.app/images/zugspitze/zugspitze3.JPG"
     },
     {
       "id": 4,
-      "src": "./public/images/zugspitze/zugspitze4.JPG"
+      "src": "https://json-server.adaptable.app/images/zugspitze/zugspitze4.JPG"
     }
   ]
 }
