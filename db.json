@@ -13,16 +13,7 @@
       "downhill": 800,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies dolor non feugiat sollicitudin. Proin ullamcorper ultrices porttitor. Etiam quis ante ac urna interdum viverra. Suspendisse at rutrum arcu. Aliquam lobortis aliquet ligula, quis efficitur quam pellentesque eu. Nullam nisi urna, venenatis quis volutpat sit amet, cursus in justo. Integer consectetur purus ac finibus consectetur. Nam et scelerisque quam, in tincidunt ante. Praesent tempor sagittis diam, sed commodo leo tincidunt id. Suspendisse ac urna justo. Integer eleifend nulla ut erat vestibulum, ac dapibus dolor hendrerit. Mauris tempus rhoncus magna vel maximus. Duis scelerisque tristique ex ac gravida. Suspendisse accumsan velit vel scelerisque vehicula. Phasellus accumsan euismod tincidunt. Praesent elit enim, accumsan et magna ut, vestibulum pulvinar quam. Donec vestibulum gravida massa sit amet scelerisque. Duis ac magna augue. Quisque non nunc molestie, sagittis orci vel, dictum libero. Nullam eros enim, tristique cursus sem a, feugiat fermentum justo. Praesent luctus tempor nulla, ac ultrices erat. Vivamus et risus porttitor, rhoncus nunc eget, elementum enim. Nam suscipit massa nec ipsum sollicitudin volutpat.",
       "latitude": 47.4211,
-      "longitude": 10.9854,
-      "images": [
-        {
-          "id": 1,
-          "src": "https://i.ibb.co/bg2rpTf/5736-ED3-C-47-D9-474-D-B4-C4-E3-CFE1927941.jpg"
-        },
-        { "id": 2, "src": "/images/Zugspitze/IMG_5244.jpg" },
-        { "id": 3, "src": "/images/Zugspitze/IMG_5265.jpg" },
-        { "id": 4, "src": "/images/Zugspitze/IMG_5282.jpg" }
-      ]
+      "longitude": 10.9854
     },
     {
       "id": 2,
@@ -98,6 +89,18 @@
       "description": "xyz",
       "latitude": 46.6231,
       "longitude": 12.3122
+    },
+    {
+      "nameOfHike": "1111111111Triglav - The top of Slovenia",
+      "mountainRange": "Julijske Alpe",
+      "country": "Slovenia",
+      "hikeStartPoint": "Ukanc",
+      "time": 10,
+      "distance": 14,
+      "elevation": 2863,
+      "uphill": 1000,
+      "downhill": 800,
+      "id": 7
     }
   ],
   "reviews": [
@@ -117,21 +120,39 @@
       "stars": 5,
       "postedOn": "10.06.2023"
     },
-      {
-        "id": 3,
-        "hikeId": 2,
-        "reviewer":"Natalia",
-        "reviewText": "This hike is long and difficult, best to plan for a stay in a mountin hut along the way",
-        "stars": 5,
-        "postedOn": "11.02.2024"
-      },
-      {
-        "id": 4,
-        "hikeId": 2,
-        "reviewer": "uros",
-        "reviewText": "If you're lucky, you get to spot some marmots",
-        "stars": 5,
-        "postedOn": "10.06.2023"
-      }
-    ]
+    {
+      "id": 3,
+      "hikeId": 2,
+      "reviewer": "Natalia",
+      "reviewText": "This hike is long and difficult, best to plan for a stay in a mountin hut along the way",
+      "stars": 5,
+      "postedOn": "11.02.2024"
+    },
+    {
+      "id": 4,
+      "hikeId": 2,
+      "reviewer": "uros",
+      "reviewText": "If you're lucky, you get to spot some marmots",
+      "stars": 5,
+      "postedOn": "10.06.2023"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "src": "public/images/zugspitze/zugspitze1.JPG"
+    },
+    {
+      "id": 2,
+      "src": "public/images/zugspitze/zugspitze2.JPG"
+    },
+    {
+      "id": 3,
+      "src": "public/images/zugspitze/zugspitze3.JPG"
+    },
+    {
+      "id": 4,
+      "src": "public/images/zugspitze/zugspitze4.JPG"
+    }
+  ]
 }
