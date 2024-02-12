@@ -89,18 +89,6 @@
       "description": "xyz",
       "latitude": 46.6231,
       "longitude": 12.3122
-    },
-    {
-      "nameOfHike": "1111111111Triglav - The top of Slovenia",
-      "mountainRange": "Julijske Alpe",
-      "country": "Slovenia",
-      "hikeStartPoint": "Ukanc",
-      "time": 10,
-      "distance": 14,
-      "elevation": 2863,
-      "uphill": 1000,
-      "downhill": 800,
-      "id": 7
     }
   ],
   "reviews": [
