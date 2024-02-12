@@ -163,6 +163,37 @@
           "postedOn": "10.06.2023"
         }
       ]
+    },
+    {
+      "id": 6,
+      "nameOfHike": "Tre Cime di Laveredo - the crown of the Dolomites",
+      "mountainRange": "Sextner Dolomiten",
+      "country": "Italy",
+      "hikeStartPoint": "Mountain Hut Dreischusterhütte",
+      "time": 3,
+      "distance": 10,
+      "elevation": 2454,
+      "uphill": 1000,
+      "downhill": 800,
+      "description": "xyz",
+      "latitude": 46.37,
+      "longitude": 12.18,
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Natalia",
+          "reviewText": "A very pleasant walk from the hut with many post-war tunnels",
+          "stars": 5,
+          "postedOn": "11.02.2024"
+        },
+        {
+          "id": 2,
+          "reviewer": "urosska",
+          "reviewText": "very busy in the morning, also doable in the afternoon",
+          "stars": 5,
+          "postedOn": "10.06.2023"
+        }
+      ]
     }
   ]
 }
