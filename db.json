@@ -140,17 +140,17 @@
     {
       "id": 2,
       "hikeId": 1,
-      "src": "https://json-server.adaptable.app/public/images/zugspitze2.JPG"
+      "src": "https://json-server.adaptable.app/images/zugspitze2.jpg"
     },
     {
       "id": 3,
       "hikeId": 1,
-      "src": "https://json-server.adaptable.app/public/images/zugspitze3.JPG"
+      "src": "https://json-server.adaptable.app/images/zugspitze3.jpg"
     },
     {
       "id": 4,
       "hikeId": 1,
-      "src": "https://json-server.adaptable.app/images/zugspitze/zugspitze4.JPG"
+      "src": "https://json-server.adaptable.app/images/zugspitze4.jpg"
     }
   ]
 }
