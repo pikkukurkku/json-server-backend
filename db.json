@@ -5,13 +5,13 @@
       "nameOfHike": "Zugspitze - The top of Germany",
       "mountainRange": "Wettersteingebirge",
       "country": "Germany",
-      "hikeStartPoint": "parking lot",
+      "hikeStartPoint": "Partnachklamm entrance",
       "time": 10,
       "distance": 14,
       "elevation": 2962,
       "uphill": 1000,
       "downhill": 800,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies dolor non feugiat sollicitudin. Proin ullamcorper ultrices porttitor. Etiam quis ante ac urna interdum viverra. Suspendisse at rutrum arcu. Aliquam lobortis aliquet ligula, quis efficitur quam pellentesque eu. Nullam nisi urna, venenatis quis volutpat sit amet, cursus in justo. Integer consectetur purus ac finibus consectetur. Nam et scelerisque quam, in tincidunt ante. Praesent tempor sagittis diam, sed commodo leo tincidunt id. Suspendisse ac urna justo. Integer eleifend nulla ut erat vestibulum, ac dapibus dolor hendrerit. Mauris tempus rhoncus magna vel maximus. Duis scelerisque tristique ex ac gravida. Suspendisse accumsan velit vel scelerisque vehicula. Phasellus accumsan euismod tincidunt. Praesent elit enim, accumsan et magna ut, vestibulum pulvinar quam. Donec vestibulum gravida massa sit amet scelerisque. Duis ac magna augue. Quisque non nunc molestie, sagittis orci vel, dictum libero. Nullam eros enim, tristique cursus sem a, feugiat fermentum justo. Praesent luctus tempor nulla, ac ultrices erat. Vivamus et risus porttitor, rhoncus nunc eget, elementum enim. Nam suscipit massa nec ipsum sollicitudin volutpat.",
+      "description": "Embark on a mesmerizing hiking adventure from Garmisch-Partenkirchen's skijump to the majestic Zugspitze summit. This trail unfolds through the scenic Reintal Valley, offering captivating alpine landscapes. While relatively easy, its considerable length demands endurance. As you ascend, enjoy panoramic views, but be prepared for exposed areas and chains in the final stretch. These add a touch of adventure, making caution and physical fitness essential. Upon reaching Zugspitze's peak, consider descending via cable car for a comfortable yet scenic journey back, completing a remarkable alpine experience blending natural beauty, physical challenge, and breathtaking vistas.",
       "latitude": 47.4211,
       "longitude": 10.9854,
       "locationKey": 1028635
@@ -22,14 +22,15 @@
       "mountainRange": "Julijske Alpe",
       "country": "Slovenia",
       "hikeStartPoint": "Ukanc",
-      "time": 10,
-      "distance": 14,
+      "time": 15,
+      "distance": 24,
       "elevation": 2863,
       "uphill": 1000,
       "downhill": 800,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies dolor non feugiat sollicitudin. Proin ullamcorper ultrices porttitor. Etiam quis ante ac urna interdum viverra. Suspendisse at rutrum arcu. Aliquam lobortis aliquet ligula, quis efficitur quam pellentesque eu. Nullam nisi urna, venenatis quis volutpat sit amet, cursus in justo. Integer consectetur purus ac finibus consectetur. Nam et scelerisque quam, in tincidunt ante. Praesent tempor sagittis diam, sed commodo leo tincidunt id. Suspendisse ac urna justo. Integer eleifend nulla ut erat vestibulum, ac dapibus dolor hendrerit. Mauris tempus rhoncus magna vel maximus. Duis scelerisque tristique ex ac gravida. Suspendisse accumsan velit vel scelerisque vehicula. Phasellus accumsan euismod tincidunt. Praesent elit enim, accumsan et magna ut, vestibulum pulvinar quam. Donec vestibulum gravida massa sit amet scelerisque. Duis ac magna augue. Quisque non nunc molestie, sagittis orci vel, dictum libero. Nullam eros enim, tristique cursus sem a, feugiat fermentum justo. Praesent luctus tempor nulla, ac ultrices erat. Vivamus et risus porttitor, rhoncus nunc eget, elementum enim. Nam suscipit massa nec ipsum sollicitudin volutpat.",
+      "description": "Embarking on a captivating journey from Ukanc to Triglav's summit, hikers are treated to a mesmerizing 360-degree panorama. The trail begins with a challenging, steep ascent, demanding careful navigation. Overcoming this initial difficulty unveils breathtaking views. Winding through the enchanting Valles of the Seven Lakes, a trekking highlight, the route is lengthy, suggesting an overnight stay at the Koča na Doliču pod Triglavom mountain hut for a rustic mountain retreat. Along the way, the delightful presence of marmots and the majestic sight of mountain goats enhance the natural allure of this unforgettable alpine experience.",
       "latitude": 46.3783,
-      "longitude": 13.8369
+      "longitude": 13.8369,
+      "locationKey": 297284
     },
     {
       "id": 3,
@@ -44,7 +45,8 @@
       "downhill": 800,
       "description": "The Rote Wand in the Deferegger Mountains (Villgrater Bergen) is a very popular tour destination and can be accessed from several directions. The easiest and most beautiful route in terms of altitude leads from the Staller Sattel through the natural Ackstal to the wonderful panoramic mountain. The view of the Rieserferner group in the north with Lake Antholz deep in the valley is particularly impressive. But the view of the Venice Group, the Glockner Group and the Dolomites is also magnificent.",
       "latitude": 46.5153,
-      "longitude": 12.1047
+      "longitude": 12.1047,
+      "locationKey": 2545326
     },
     {
       "id": 4,
@@ -57,9 +59,10 @@
       "elevation": 2499,
       "uphill": 1000,
       "downhill": 800,
-      "description": "xyz",
+      "description": "Hike up to Poland's highest peak, Rysy, for an awe-inspiring alpine adventure. The trail begins along the picturesque Morskie Oko lake, leading to a steep climb to the stunning Czarny Staw pod Rysami. As you ascend, enjoy the breathtaking views of the surrounding landscape. The final stretch involves a 3-4 hour climb in exposed terrain to reach the peak. Rysy's summit, though popular, offers panoramic vistas worth the effort. Opting for the longer descent on the Slovakian side provides a less crowded and equally scenic route, concluding this challenging hike with a memorable alpine experience.",
       "latitude": 49.1795,
-      "longitude": 20.0881
+      "longitude": 20.0881,
+      "locationKey": 264492
     },
     {
       "id": 5,
@@ -72,9 +75,10 @@
       "elevation": 2501,
       "uphill": 1000,
       "downhill": 800,
-      "description": "xyz",
+      "description": "This challenging yet rewarding trek from the Schäfler mountain hut, starts with a breathtaking 360-degree view and culminates at the majestic Säntis peak. The trail navigates through highly exposed terrain, marked by its daring nature. To ensure safety, chains are strategically placed along the route, providing secure passage. Adventurers are treated to unparalleled panoramic vistas as they ascend. Considering the demanding conditions, there are two recommended descent options: take the cable car for a swift and comfortable return, or opt for a scenic walk down to Meglisalp, where the welcoming mountain hut awaits, offering a serene conclusion to this thrilling alpine journey.",
       "latitude": 47.2494,
-      "longitude": 9.3432
+      "longitude": 9.3432,
+      "locationKey": 314557
     },
     {
       "id": 6,
@@ -87,9 +91,10 @@
       "elevation": 2454,
       "uphill": 1000,
       "downhill": 800,
-      "description": "xyz",
+      "description": "Traverse the captivating trail from Dreischusterhütte mountain hut to the iconic Tre Cime di Lavaredo. The journey unveils wartime tunnels along the route, adding a historical dimension to the hike. Morning trekkers benefit from ample shade, creating a comfortable ascent. Renowned for its popularity, the trek offers not only breathtaking views but also the opportunity to rest in one of the three mountain huts surrounding the iconic peaks. Embrace the allure of these majestic mountains, with the added charm of historical remnants and the convenience of nearby mountain huts for an enriching alpine experience.",
       "latitude": 46.6231,
-      "longitude": 12.3122
+      "longitude": 12.3122,
+      "locationKey": 2549049
     }
   ],
   "reviews": [
@@ -99,7 +104,7 @@
       "reviewer": "Natalia",
       "reviewText": "This hike is long and difficult, best to plan for a stay in a mountin hut along the way",
       "stars": 5,
-      "postedOn": "11.02.2024"
+      "postedOn": "11/02/2024"
     },
     {
       "id": 2,
@@ -107,7 +112,7 @@
       "reviewer": "uros",
       "reviewText": "If you're lucky, you get to spot some marmots",
       "stars": 5,
-      "postedOn": "10.06.2023"
+      "postedOn": "10/06/2023"
     },
     {
       "id": 3,
@@ -115,7 +120,7 @@
       "reviewer": "Natalia",
       "reviewText": "This hike is long and difficult, best to plan for a stay in a mountin hut along the way",
       "stars": 5,
-      "postedOn": "11.02.2024"
+      "postedOn": "11/02/2024"
     },
     {
       "id": 4,
@@ -123,24 +128,28 @@
       "reviewer": "uros",
       "reviewText": "If you're lucky, you get to spot some marmots",
       "stars": 5,
-      "postedOn": "10.06.2023"
+      "postedOn": "10/06/2023"
     }
   ],
   "images": [
     {
       "id": 1,
+      "hikeId": 1,
       "src": "https://json-server.adaptable.app/images/zugspitze/zugspitze1.JPG"
     },
     {
       "id": 2,
+      "hikeId": 1,
       "src": "https://json-server.adaptable.app/images/zugspitze/zugspitze2.JPG"
     },
     {
       "id": 3,
+      "hikeId": 1,
       "src": "https://json-server.adaptable.app/images/zugspitze/zugspitze3.JPG"
     },
     {
       "id": 4,
+      "hikeId": 1,
       "src": "https://json-server.adaptable.app/images/zugspitze/zugspitze4.JPG"
     }
   ]
