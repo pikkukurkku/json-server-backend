@@ -210,7 +210,27 @@
     {
       "id": 4,
       "hikeId": 2,
-      "src": "https://json-server.adaptable.app/images/triglav4.webp"   
+      "src": "https://json-server.adaptable.app/images/triglav7.jpg"   
+     },
+     {
+      "id": 1,
+      "hikeId": 6,
+      "src": "https://json-server.adaptable.app/images/trecime1.jpg"
+    },
+    {
+      "id": 2,
+      "hikeId": 6,
+      "src": "https://json-server.adaptable.app/images/trecime2.jpg"
+    },
+    {
+      "id": 3,
+      "hikeId": 6,
+      "src": "https://json-server.adaptable.app/images/trecime3.jpg"
+    },
+    {
+      "id": 4,
+      "hikeId": 6,
+      "src": "https://json-server.adaptable.app/images/trecime4.jpg"   
      }
   ]
 }
