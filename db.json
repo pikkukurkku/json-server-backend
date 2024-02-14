@@ -200,17 +200,17 @@
     {
       "id": 2,
       "hikeId": 4,
-      "src": "https://json-server.adaptable.app/images/rysy6.webp"
+      "src": "https://json-server.adaptable.app/images/rysy6.jpg"
     },
     {
       "id": 3,
       "hikeId": 4,
-      "src": "https://json-server.adaptable.app/images/rysy7.jpg"
+      "src": "https://json-server.adaptable.app/images/rysy10.jpg"
     },
     {
       "id": 4,
       "hikeId": 4,
-      "src": "https://json-server.adaptable.app/images/rysy9.jpg"
+      "src": "https://json-server.adaptable.app/images/rysy9.jpeg"
     }
   ]
 }
