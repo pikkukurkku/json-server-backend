@@ -191,6 +191,26 @@
       "id": 4,
       "hikeId": 3,
       "src": "https://json-server.adaptable.app/images/rotewand4.JPG"
+    },
+    {
+      "id": 1,
+      "hikeId": 4,
+      "src": "https://json-server.adaptable.app/images/rysy1.jpg"
+    },
+    {
+      "id": 2,
+      "hikeId": 4,
+      "src": "https://json-server.adaptable.app/images/rysy2.webp"
+    },
+    {
+      "id": 3,
+      "hikeId": 4,
+      "src": "https://json-server.adaptable.app/images/rysy3.jpg"
+    },
+    {
+      "id": 4,
+      "hikeId": 4,
+      "src": "https://json-server.adaptable.app/images/rysy4.webp"
     }
   ]
 }
