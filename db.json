@@ -215,7 +215,7 @@
      {
       "id": 1,
       "hikeId": 6,
-      "src": "https://json-server.adaptable.app/images/trecime4.jpg"
+      "src": "https://json-server.adaptable.app/images/trecime8.jpg"
     },
     {
       "id": 2,
@@ -230,7 +230,7 @@
     {
       "id": 4,
       "hikeId": 6,
-      "src": "https://json-server.adaptable.app/images/trecime8.jpg"   
+      "src": "https://json-server.adaptable.app/images/trecime4.jpg"   
      }
   ]
 }
