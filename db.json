@@ -215,22 +215,22 @@
      {
       "id": 1,
       "hikeId": 6,
-      "src": "https://json-server.adaptable.app/images/trecime1.jpg"
+      "src": "https://json-server.adaptable.app/images/trecime4.jpg"
     },
     {
       "id": 2,
       "hikeId": 6,
-      "src": "https://json-server.adaptable.app/images/trecime2.jpg"
+      "src": "https://json-server.adaptable.app/images/trecime5.jpg"
     },
     {
       "id": 3,
       "hikeId": 6,
-      "src": "https://json-server.adaptable.app/images/trecime3.jpg"
+      "src": "https://json-server.adaptable.app/images/trecime6.jpg"
     },
     {
       "id": 4,
       "hikeId": 6,
-      "src": "https://json-server.adaptable.app/images/trecime4.jpg"   
+      "src": "https://json-server.adaptable.app/images/trecime8.jpg"   
      }
   ]
 }
