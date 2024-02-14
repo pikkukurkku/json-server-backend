@@ -180,17 +180,17 @@
     {
       "id": 2,
       "hikeId": 3,
-      "src": "https://json-server.adaptable.app/images/rotewand2.jpg"
+      "src": "https://json-server.adaptable.app/images/rotewand2.JPG"
     },
     {
       "id": 3,
       "hikeId": 3,
-      "src": "https://json-server.adaptable.app/images/rotewand3.jpg"
+      "src": "https://json-server.adaptable.app/images/rotewand3.JPG"
     },
     {
       "id": 4,
       "hikeId": 3,
-      "src": "https://json-server.adaptable.app/images/rotewand4.jpg"
+      "src": "https://json-server.adaptable.app/images/rotewand4.JPG"
     }
   ]
 }
