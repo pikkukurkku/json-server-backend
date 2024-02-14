@@ -194,23 +194,23 @@
     },
     {
       "id": 1,
-      "hikeId": 4,
-      "src": "https://json-server.adaptable.app/images/rysy4.webp"
+      "hikeId": 2,
+      "src": "https://json-server.adaptable.app/images/triglav1.jpg"
     },
     {
       "id": 2,
-      "hikeId": 4,
-      "src": "https://json-server.adaptable.app/images/rysy6.jpg"
+      "hikeId": 2,
+      "src": "https://json-server.adaptable.app/images/triglav2.jpg"
     },
     {
       "id": 3,
-      "hikeId": 4,
-      "src": "https://json-server.adaptable.app/images/rysy10.jpg"
+      "hikeId": 2,
+      "src": "https://json-server.adaptable.app/images/triglav3.jpg"
     },
     {
       "id": 4,
-      "hikeId": 4,
-      "src": "https://json-server.adaptable.app/images/rysy9.jpeg"
-    }
+      "hikeId": 2,
+      "src": "https://json-server.adaptable.app/images/triglav4.webp"   
+     }
   ]
 }
