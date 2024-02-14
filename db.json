@@ -151,6 +151,26 @@
       "id": 4,
       "hikeId": 1,
       "src": "https://json-server.adaptable.app/images/zugspitze4.jpg"
+    },
+    {
+      "id": 1,
+      "hikeId": 5,
+      "src": "https://json-server.adaptable.app/images/santis1.jpg"
+    },
+    {
+      "id": 2,
+      "hikeId": 5,
+      "src": "https://json-server.adaptable.app/images/santis2.jpg"
+    },
+    {
+      "id": 3,
+      "hikeId": 5,
+      "src": "https://json-server.adaptable.app/images/santis3.webp"
+    },
+    {
+      "id": 4,
+      "hikeId": 5,
+      "src": "https://json-server.adaptable.app/images/santis4.jpg"
     }
   ]
 }
