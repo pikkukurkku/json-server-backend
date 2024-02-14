@@ -231,6 +231,26 @@
       "id": 4,
       "hikeId": 6,
       "src": "https://json-server.adaptable.app/images/trecime4.jpg"   
+     },
+     {
+      "id": 1,
+      "hikeId": 4,
+      "src": "https://json-server.adaptable.app/images/rysy4.webp"
+    },
+    {
+      "id": 2,
+      "hikeId": 4,
+      "src": "https://json-server.adaptable.app/images/rysy5.jpg"
+    },
+    {
+      "id": 3,
+      "hikeId": 4,
+      "src": "https://json-server.adaptable.app/images/rysy6.jpg"
+    },
+    {
+      "id": 4,
+      "hikeId": 4,
+      "src": "https://json-server.adaptable.app/images/rysy9.jpeg"   
      }
   ]
 }
