@@ -165,12 +165,32 @@
     {
       "id": 3,
       "hikeId": 5,
-      "src": "https://json-server.adaptable.app/images/santis3.jpg"
+      "src": "https://json-server.adaptable.app/images/santis7.webp"
     },
     {
       "id": 4,
       "hikeId": 5,
-      "src": "https://json-server.adaptable.app/images/santis4.jpg"
+      "src": "https://json-server.adaptable.app/images/santis8.webp"
+    },
+    {
+      "id": 1,
+      "hikeId": 3,
+      "src": "https://json-server.adaptable.app/images/rotewand1.jpg"
+    },
+    {
+      "id": 2,
+      "hikeId": 3,
+      "src": "https://json-server.adaptable.app/images/rotewand2.jpg"
+    },
+    {
+      "id": 3,
+      "hikeId": 3,
+      "src": "https://json-server.adaptable.app/images/rotewand3.jpg"
+    },
+    {
+      "id": 4,
+      "hikeId": 3,
+      "src": "https://json-server.adaptable.app/images/rotewand4.jpg"
     }
   ]
 }
