@@ -292,17 +292,17 @@
     {
       "id": 2,
       "hikeId": 7,
-      "src": "https://json-server.adaptable.app/images/faulhorn2.jpg"
+      "src": "https://json-server.adaptable.app/images/faulhorn7.jpg"
     },
     {
       "id": 3,
       "hikeId": 7,
-      "src": "https://json-server.adaptable.app/images/faulhorn3.jpg"
+      "src": "https://json-server.adaptable.app/images/faulhorn6.jpg"
     },
     {
       "id": 4,
       "hikeId": 7,
-      "src": "https://json-server.adaptable.app/images/faulhorn4.jpeg"   
+      "src": "https://json-server.adaptable.app/images/faulhorn5.jpg"   
      },
      {
       "id": 1,
@@ -322,7 +322,7 @@
     {
       "id": 4,
       "hikeId": 8,
-      "src": "https://json-server.adaptable.app/images/karwendel4.jpeg"   
+      "src": "https://json-server.adaptable.app/images/karwendel4.jpg"   
      }
   ]
 }
