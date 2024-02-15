@@ -108,7 +108,7 @@
       "uphill": 1000,
       "downhill": 800,
       "description": "Traverse the captivating trail from Dreischusterhütte mountain hut to the iconic Tre Cime di Lavaredo. The journey unveils wartime tunnels along the route, adding a historical dimension to the hike. Morning trekkers benefit from ample shade, creating a comfortable ascent. Renowned for its popularity, the trek offers not only breathtaking views but also the opportunity to rest in one of the three mountain huts surrounding the iconic peaks. Embrace the allure of these majestic mountains, with the added charm of historical remnants and the convenience of nearby mountain huts for an enriching alpine experience.",
-      "latitude": 46.6750,
+      "latitude": 46.675,
       "longitude": 7.9995,
       "locationKey": 312131
     },
@@ -124,8 +124,8 @@
       "uphill": 1000,
       "downhill": 800,
       "description": "Moderate mountain tour that requires surefootedness and a head for heights. Easy up to the Mittenwalder Hut. The Karwendelsteig and the ascent from the summit station of the Karwendel cable car to the Westliche Karwendelspitze are challenging and partly secured with wire ropes.",
-      "latitude": 47.2548,
-      "longitude": 11.1756,
+      "latitude": 47.4299,
+      "longitude": 11.2986,
       "locationKey": 82481
     }
   ],
@@ -161,6 +161,30 @@
       "reviewText": "If you're lucky, you get to spot some marmots",
       "stars": 5,
       "postedOn": "10/06/2023"
+    },
+    {
+      "id": 5,
+      "hikeId": 3,
+      "reviewer": "mirelaaaa",
+      "reviewText": "Watch out for the weather, it changes super quickly here",
+      "stars": 4,
+      "postedOn": "11/10/2021"
+    },
+    {
+      "id": 6,
+      "hikeId": 3,
+      "reviewer": "ema",
+      "reviewText": "easily accessible in the winter if you have snow shoes",
+      "stars": 5,
+      "postedOn": "10/11/2023"
+    },
+    {
+      "id": 7,
+      "hikeId": 3,
+      "reviewer": "Michael123",
+      "reviewText": "the ascent is a bit dull to be honest and the view from the top is nice, but there are far better ones in the region",
+      "stars": 4,
+      "postedOn": "20/06/2022"
     }
   ],
   "images": [
@@ -242,9 +266,9 @@
     {
       "id": 4,
       "hikeId": 2,
-      "src": "https://json-server.adaptable.app/images/triglav7.jpg"   
-     },
-     {
+      "src": "https://json-server.adaptable.app/images/triglav7.jpg"
+    },
+    {
       "id": 1,
       "hikeId": 6,
       "src": "https://json-server.adaptable.app/images/trecime8.jpg"
@@ -262,9 +286,9 @@
     {
       "id": 4,
       "hikeId": 6,
-      "src": "https://json-server.adaptable.app/images/trecime4.jpg"   
-     },
-     {
+      "src": "https://json-server.adaptable.app/images/trecime4.jpg"
+    },
+    {
       "id": 1,
       "hikeId": 4,
       "src": "https://json-server.adaptable.app/images/rysy4.webp"
@@ -282,9 +306,9 @@
     {
       "id": 4,
       "hikeId": 4,
-      "src": "https://json-server.adaptable.app/images/rysy9.jpeg"   
-     },
-     {
+      "src": "https://json-server.adaptable.app/images/rysy9.jpeg"
+    },
+    {
       "id": 1,
       "hikeId": 7,
       "src": "https://json-server.adaptable.app/images/faulhorn1.jpg"
@@ -302,9 +326,9 @@
     {
       "id": 4,
       "hikeId": 7,
-      "src": "https://json-server.adaptable.app/images/faulhorn5.jpg"   
-     },
-     {
+      "src": "https://json-server.adaptable.app/images/faulhorn5.jpg"
+    },
+    {
       "id": 1,
       "hikeId": 8,
       "src": "https://json-server.adaptable.app/images/karwendel5.jpg"
@@ -322,7 +346,7 @@
     {
       "id": 4,
       "hikeId": 8,
-      "src": "https://json-server.adaptable.app/images/karwendel4.jpg"   
-     }
+      "src": "https://json-server.adaptable.app/images/karwendel4.jpg"
+    }
   ]
 }
