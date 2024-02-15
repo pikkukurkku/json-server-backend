@@ -95,6 +95,38 @@
       "latitude": 46.6231,
       "longitude": 12.3122,
       "locationKey": 2549049
+    },
+    {
+      "id": 7,
+      "nameOfHike": "Faulhorn - the most beautiful sunsets",
+      "mountainRange": "Bernese Alps",
+      "country": "Switzerland",
+      "hikeStartPoint": "Lower station cable car Schynige Platte",
+      "time": 8,
+      "distance": 18,
+      "elevation": 2681,
+      "uphill": 1000,
+      "downhill": 800,
+      "description": "Traverse the captivating trail from Dreischusterhütte mountain hut to the iconic Tre Cime di Lavaredo. The journey unveils wartime tunnels along the route, adding a historical dimension to the hike. Morning trekkers benefit from ample shade, creating a comfortable ascent. Renowned for its popularity, the trek offers not only breathtaking views but also the opportunity to rest in one of the three mountain huts surrounding the iconic peaks. Embrace the allure of these majestic mountains, with the added charm of historical remnants and the convenience of nearby mountain huts for an enriching alpine experience.",
+      "latitude": 46.6750,
+      "longitude": 7.9995,
+      "locationKey": 312131
+    },
+    {
+      "id": 8,
+      "nameOfHike": "Karwendel - the gentle giant",
+      "mountainRange": "Karwendel",
+      "country": "Germany",
+      "hikeStartPoint": "Lower station cable car Karwendel Mittenwald",
+      "time": 6,
+      "distance": 18,
+      "elevation": 2385,
+      "uphill": 1000,
+      "downhill": 800,
+      "description": "Moderate mountain tour that requires surefootedness and a head for heights. Easy up to the Mittenwalder Hut. The Karwendelsteig and the ascent from the summit station of the Karwendel cable car to the Westliche Karwendelspitze are challenging and partly secured with wire ropes.",
+      "latitude": 47.2548,
+      "longitude": 11.1756,
+      "locationKey": 82481
     }
   ],
   "reviews": [
@@ -251,6 +283,46 @@
       "id": 4,
       "hikeId": 4,
       "src": "https://json-server.adaptable.app/images/rysy9.jpeg"   
+     },
+     {
+      "id": 1,
+      "hikeId": 7,
+      "src": "https://json-server.adaptable.app/images/faulhorn1.jpg"
+    },
+    {
+      "id": 2,
+      "hikeId": 7,
+      "src": "https://json-server.adaptable.app/images/faulhorn2.jpg"
+    },
+    {
+      "id": 3,
+      "hikeId": 7,
+      "src": "https://json-server.adaptable.app/images/faulhorn3.jpg"
+    },
+    {
+      "id": 4,
+      "hikeId": 7,
+      "src": "https://json-server.adaptable.app/images/faulhorn4.jpeg"   
+     },
+     {
+      "id": 1,
+      "hikeId": 8,
+      "src": "https://json-server.adaptable.app/images/karwendel1.jpg"
+    },
+    {
+      "id": 2,
+      "hikeId": 8,
+      "src": "https://json-server.adaptable.app/images/karwendel2.jpg"
+    },
+    {
+      "id": 3,
+      "hikeId": 8,
+      "src": "https://json-server.adaptable.app/images/karwendel3.jpg"
+    },
+    {
+      "id": 4,
+      "hikeId": 8,
+      "src": "https://json-server.adaptable.app/images/karwendel4.jpeg"   
      }
   ]
 }
